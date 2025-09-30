@@ -5,3 +5,6 @@ Create educational animations from simple text prompts - Users describe what the
 Support for multiple animation frameworks - Choose between Manim (mathematical/scientific visualizations) for precise technical animations or P5.js (creative coding) for interactive artistic animations
 Instant preview and export - See your generated animations immediately in the browser, with options to download Manim videos or record P5.js interactive sketches as video files
 
+few demo are [https://drive.google.com/drive/folders/1CcXioKwu-FHHupI_27LDgkmPqKKMvjHn?usp=sharing
+]
+
