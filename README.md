@@ -29,6 +29,5 @@ Manim animations exported as high-quality MP4 videos
 P5.js sketches recorded with configurable frame rates
 Instant preview before download
 
-few demo are here [https://drive.google.com/drive/folders/1CcXioKwu-FHHupI_27LDgkmPqKKMvjHn?usp=sharing
-]
+few demo are here [https://drive.google.com/drive/folders/1CcXioKwu-FHHupI_27LDgkmPqKKMvjHn?usp=sharing]
 
